@@ -18,9 +18,11 @@ public class LeetCode005 {
 		}
 		boolean[][] flag = new boolean[len][len];
 		String result = s.charAt(0) + "";
+		// 初始化单个字母的情况
 		for(int i = 0;i < len;i++) {
 			flag[i][i] = true;
 		}
+		// 初始化两个字母的情况
 		for(int i = 0;i < len - 1;i++) {
 			if (s.charAt(i) == s.charAt(i+1)) {
 				flag[i][i+1] = true;
