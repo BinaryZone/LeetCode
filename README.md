@@ -1,5 +1,16 @@
 # LeetCode
 ***
+# 字符串
+* [LeetCode006（Z字形变换）](/src/com/leetcode/LeetCode006.java)  
+
+# 线性表
+* 
+
+# 队列
+*
+
+
+
 # 分治
 * [LeetCode023（合并k个排序链表）](/src/com/leetcode/LeetCode023.java)  
 
@@ -14,9 +25,6 @@
 
 # 二叉树
 * [LeetCode314（二叉树垂直遍历）](/src/com/leetcode/LeetCode314.java)  
-
-# 字符串
-* [LeetCode006（Z字形变换）](/src/com/leetcode/LeetCode006.java)  
 
 # 哈希表
 * [LeetCode001（两数之和）](/src/com/leetcode/LeetCode001.java)  
