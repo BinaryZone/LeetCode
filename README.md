@@ -51,7 +51,8 @@
 * [LeetCode003（无重复字符的最长子串）](/src/com/leetcode/LeetCode003.java)  
 
 # 动态规划
-* [LeetCode005（最长回文字符串）](/src/com/leetcode/LeetCode005.java)  
+* [LeetCode005（最长回文字符串）](/src/com/leetcode/LeetCode005.java) 
+* [LeetCode121（买卖股票的最佳时机）](/src/com/leetcode/LeetCode121.java) 
 
 # 大数问题
 * [LeetCode002（整数反转）](/src/com/leetcode/LeetCode007.java)  
