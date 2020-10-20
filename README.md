@@ -41,6 +41,10 @@
 # 迭代、递归
 * [LeetCode779（第K个语法符号）](/src/com/leetcode/LeetCode779.java)  
 
+# 回溯算法
+* [剑指offer38（字符串的排列）](/src/com/leetcode/JianZhi38.java)  
+
+
 # 分治
 * [LeetCode023（合并k个排序链表）](/src/com/leetcode/LeetCode023.java) 
 
